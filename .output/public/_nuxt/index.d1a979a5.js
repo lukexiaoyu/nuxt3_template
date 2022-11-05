@@ -1,0 +1,1 @@
+import{C as e,o as t,p as c}from"./entry.df4b5c7a.js";const n={},o={class:"text-center bg-green-50"};function r(s,a){return t(),c("h1",o,"Index page")}const d=e(n,[["render",r]]);export{d as default};
